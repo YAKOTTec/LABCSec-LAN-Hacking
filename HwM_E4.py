@@ -9,6 +9,12 @@ Powered by YAKOTT
 
 
 """
+Disclaimer:
+This project is for educational purposes only and should not be used for illegal or malicious activities. YAKOTT is not responsible for misuse of the information or tools provided in the project.
+"""
+
+
+"""
 WT32-ETH01 v1.4
 LAN Address Spoofing Attack
 
