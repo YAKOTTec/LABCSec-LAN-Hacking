@@ -2,9 +2,9 @@
 Executable MicroPython Code:
 
 Load into microcontroller as:
-IRS_S11_E4_1.py => main.py
+HwM_E4.py => main.py
 
-Powered by Darío Javier Valarezo León
+Powered by YAKOTT
 """
 
 
