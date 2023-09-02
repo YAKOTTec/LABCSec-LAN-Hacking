@@ -1,4 +1,4 @@
-[**LABCSec: LAN Hacking.**]()
+[**LABCSec: LAN Hacking with Microcontrollers.**]()
 
 *Micropython v1.20.0, WT32-ETH01 v1.4*
 
@@ -8,7 +8,7 @@
 
 ...
 
-[**LABCSec: LAN Hacking.**]()
+[**LABCSec: LAN Hacking with Microcontrollers.**]()
 
 *Micropython v1.20.0, WT32-ETH01 v1.4*
 
